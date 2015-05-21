@@ -1,7 +1,7 @@
 CKAN-support
 ============
 
-Repository dedicated to support issues, user guides, and the like.
+This repository has been deprecated in favour of a more centralised approach, with both the wiki and issues being stored in the main CKAN repo. Pleae use the links below:
 
 [Click here to go to the CKAN wiki](https://github.com/KSP-CKAN/CKAN/wiki)
 
